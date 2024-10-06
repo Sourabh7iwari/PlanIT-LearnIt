@@ -1,9 +1,17 @@
-
 # LearnIT-PlaneIT
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <img src="public/asset/14-59-19.png" alt="Project Screenshot" width="700" />
+  <img src="public/asset/_14-59-34.png" alt="Project Screenshot" width="700" />
+  <img src="public/asset/_14-59-48.png" alt="Project Screenshot" width="700" />
+  <img src="public/asset/_15-00-55.png" alt="Project Screenshot" width="700" />
+  <img src="public/asset/_15-01-02.png" alt="Project Screenshot" width="700" />
+  <img src="public/asset/_15-01-14.png" alt="Project Screenshot" width="700" />
+</div>
 ## Getting Started
+
 
 ### Prerequisites
 
